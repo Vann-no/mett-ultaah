@@ -166,14 +166,14 @@ section {
 }
 
 .hbd1 {
-  text-shadow: 0 0 8px #d9e9cf, 0 0 16px #facbf8;
+  text-shadow: 0 0 8px #facbf8, 0 0 16px #facbf8;
   letter-spacing: 2.5px;
   margin-top: 3rem;
   margin-bottom: 0rem;
   z-index: 3;
 }
 .hbd2 {
-  text-shadow: 0 0 8px #d9e9cf, 0 0 16px #facbf8;
+  text-shadow: 0 0 8px #facbf8, 0 0 16px #facbf8;
   letter-spacing: 3px;
   margin-top: 0rem;
   font-size: 0.8rem;
@@ -407,4 +407,5 @@ section {
     background-position: 80px 80px;
   }
 }
+
 
