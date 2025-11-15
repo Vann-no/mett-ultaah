@@ -166,14 +166,14 @@ section {
 }
 
 .hbd1 {
-  text-shadow: 0 0 8px #d9e9cf, 0 0 16px #96a78d;
+  text-shadow: 0 0 8px #d9e9cf, 0 0 16px #6A5569;
   letter-spacing: 2.5px;
   margin-top: 3rem;
   margin-bottom: 0rem;
   z-index: 3;
 }
 .hbd2 {
-  text-shadow: 0 0 8px #d9e9cf, 0 0 16px #a6d6d6;
+  text-shadow: 0 0 8px #d9e9cf, 0 0 16px #6A5569;
   letter-spacing: 3px;
   margin-top: 0rem;
   font-size: 0.8rem;
@@ -208,8 +208,8 @@ section {
   letter-spacing: 2px;
   font-size: 0.5rem;
   text-align: center;
-  color: #f0f0f0;
-  text-shadow: 0 0 8px #96a78d, 0 0 8px #96a78d;
+  color: #6A5569;
+   text-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
 
 .doa1 {
@@ -223,11 +223,11 @@ section {
 
 .container2-ucapanS2 {
   position: relative;
-  color: #f0f0f0;
-  text-shadow: 0 0 8px #96a78d;
+  color: #6A5569;
+  text-shadow: 0 0 8px #6A5569;
   top: 4rem;
   font-family: font1;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   text-align: center;
   letter-spacing: 0.4px;
 }
@@ -328,7 +328,7 @@ section {
 .lyrics span.active {
   opacity: 1; /* full muncul */
   font-weight: bold;
-  color: #ffffff;
+  color: #6A5569;
   text-shadow: 0 0 10px #ffb3ee;
 }
 
